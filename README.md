@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" height="90px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> About Me
-- 🔭 I'm currently in my first semester at UNAL.
+- 🔭 I'm currently in my third semester at UNAL.
 - 🌱 I'm currently starting out on github.
 - 🤔 I'm looking for help with a programming course.
 -  📫 How to reach me: 
